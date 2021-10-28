@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bjitgroup.app.AppTest" time="0.017" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bjitgroup.app.AppTest" time="0.016" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/jdk1.8.0_25/jre/lib/amd64"/>
-    <property name="sun.java.command" value="/home/bjit/Documents/PROJECTS/project-one/target/surefire/surefirebooter7434017033686053689.jar /home/bjit/Documents/PROJECTS/project-one/target/surefire 2021-10-27T16-53-31_313-jvmRun1 surefire6771612957119832213tmp surefire_0406755084502851670tmp"/>
+    <property name="sun.java.command" value="/home/bjit/Documents/PROJECTS/project-one/target/surefire/surefirebooter7592354893930400961.jar /home/bjit/Documents/PROJECTS/project-one/target/surefire 2021-10-28T14-36-22_129-jvmRun1 surefire2076906613763681984tmp surefire_06343968670438101291tmp"/>
     <property name="surefire.test.class.path" value="/home/bjit/Documents/PROJECTS/project-one/target/test-classes:/home/bjit/Documents/PROJECTS/project-one/target/classes:/home/bjit/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/bjit/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/bjit"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/bjit/Documents/PROJECTS/project-one/target/surefire/surefirebooter7434017033686053689.jar"/>
+    <property name="surefire.real.class.path" value="/home/bjit/Documents/PROJECTS/project-one/target/surefire/surefirebooter7592354893930400961.jar"/>
     <property name="sun.boot.class.path" value="/usr/jdk1.8.0_25/jre/lib/resources.jar:/usr/jdk1.8.0_25/jre/lib/rt.jar:/usr/jdk1.8.0_25/jre/lib/sunrsasign.jar:/usr/jdk1.8.0_25/jre/lib/jsse.jar:/usr/jdk1.8.0_25/jre/lib/jce.jar:/usr/jdk1.8.0_25/jre/lib/charsets.jar:/usr/jdk1.8.0_25/jre/lib/jfr.jar:/usr/jdk1.8.0_25/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_25-b17"/>
